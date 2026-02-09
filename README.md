@@ -106,7 +106,8 @@ El producto estrella de **ProCat Solutions** es el **AI Voice Agent** — un asi
 - **HU:** [hello@procats.hu](mailto:hello@procats.hu)
 - **EN:** [hello@procatsolutions.com](mailto:hello@procatsolutions.com)
 - **ES:** [hello@procats.es](mailto:hello@procats.es)
-- **Location:** Budapest, Hungary
+- **HU Location:** Budapest, Hungary
+- **ES Location:** Alicante - Santa Pola, Spain
 
 ---
 
