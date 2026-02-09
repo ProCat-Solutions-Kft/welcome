@@ -20,6 +20,8 @@ A **ProCat Solutions** zászlóshajó terméke az **AI Voice Agent** - egy meste
 - Integrálható meglévő CRM és telefonrendszerekbe
 - Költséghatékony megoldás az ügyfélszolgálat modernizálására
 
+**Ajánlatkérés:** [hello@procats.hu](mailto:hello@procats.hu)
+
 ### Egyéb szolgáltatásaink
 
 | Szolgáltatás | Leírás |
@@ -48,6 +50,8 @@ A **ProCat Solutions** zászlóshajó terméke az **AI Voice Agent** - egy meste
 - Multilingual support (Hungarian, English, Spanish and more)
 - Integrates with existing CRM and phone systems
 - Cost-effective solution to modernize customer service
+
+**Request a quote:** [hello@procatsolutions.com](mailto:hello@procatsolutions.com)
 
 ### Other Services
 
@@ -78,6 +82,8 @@ El producto estrella de **ProCat Solutions** es el **AI Voice Agent** — un asi
 - Se integra con sistemas CRM y telefonicos existentes
 - Solucion rentable para modernizar el servicio al cliente
 
+**Solicitar presupuesto:** [hello@procats.es](mailto:hello@procats.es)
+
 ### Otros servicios
 
 | Servicio | Descripcion |
@@ -97,7 +103,9 @@ El producto estrella de **ProCat Solutions** es el **AI Voice Agent** — un asi
 ## Contact / Kapcsolat / Contacto
 
 - **Web:** [procats.hu](https://procats.hu)
-- **Email:** [hello@procats.hu](mailto:hello@procats.hu)
+- **HU:** [hello@procats.hu](mailto:hello@procats.hu)
+- **EN:** [hello@procatsolutions.com](mailto:hello@procatsolutions.com)
+- **ES:** [hello@procats.es](mailto:hello@procats.es)
 - **Location:** Budapest, Hungary
 
 ---
