@@ -1,6 +1,6 @@
 # ProCat Solutions Kft.
 
-> **Budapest, Hungary | Since 2014**
+> **Budapest, Hungary | Since 2022**
 
 [![Website](https://img.shields.io/badge/Web-procats.hu-blue?style=for-the-badge)](https://procats.hu)
 [![Email](https://img.shields.io/badge/Email-hello%40procats.hu-red?style=for-the-badge)](mailto:hello@procats.hu)
